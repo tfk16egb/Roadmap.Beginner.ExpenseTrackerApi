@@ -1,0 +1,6 @@
+@Roadmap.Beginner.ExpenseTrackerApi_HostAddress = http://localhost:5219
+
+GET {{Roadmap.Beginner.ExpenseTrackerApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
